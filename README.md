@@ -18,7 +18,7 @@
 
 <br>
 
-[![@AbelMachaca](https://img.icons8.com/fluency/48/000000/linkedin.png "@abelmachaca")](https://www.linkedin.com/in/abelmachaca/) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](abelmachaca99@gmail.com)
+[![@AbelMachaca](https://img.icons8.com/fluency/48/000000/linkedin.png "@abelmachaca")](https://www.linkedin.com/in/abelmachaca/) [![@AbelMachaca99@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@AbelMachaca99@gmail.com")](abelmachaca99@gmail.com)
 
 <br>
 
@@ -67,7 +67,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbelMachaca&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![AbelMachaca GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelMachaca&theme=algolia)](https://github.com/AbelMachaca/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelMachaca&theme=algolia)](https://github.com/AbelMachaca/github-readme-stats)[![AbelMachaca wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbelMachaca&theme=algolia)](https://github.com/AbelMachaca/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbelMachaca&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![AbelMachaca GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelMachaca&theme=algolia)](https://github.com/AbelMachaca/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbelMachaca&theme=algolia&langs_count=6)](https://github.com/AbelMachaca/github-readme-stats)[![AbelMachaca wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbelMachaca&theme=algolia)](https://github.com/AbelMachaca/github-readme-stats)
 
 <br>
 
@@ -80,3 +80,5 @@
 <br>
 
 
+
+  
