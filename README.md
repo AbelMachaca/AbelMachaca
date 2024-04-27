@@ -81,10 +81,8 @@
 
 <br>
 
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbelMachaca&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/AbelMachaca/github-readme-activity-graph)
-
----
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/AbelMachaca/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>AbelMachaca
